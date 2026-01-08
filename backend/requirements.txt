@@ -1,0 +1,11 @@
+# Core API Framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+
+# Request Parsing
+python-multipart>=0.0.6
+
+# NLP & Logic (Future)
+# transformers
+# spacy
+python-dotenv
